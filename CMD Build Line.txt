@@ -1,0 +1,1 @@
+pyinstaller --clean --noconfirm --distpath . --workpath build main.spec

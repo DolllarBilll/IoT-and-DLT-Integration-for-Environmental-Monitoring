@@ -1,0 +1,3 @@
+sc query mosquitto
+sc start mosquitto
+net stop mosquitto
